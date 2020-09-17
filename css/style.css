@@ -1,4 +1,24 @@
 body{
   background-color:#cacaca;
-  font-family: cursive;
+  font-family: cursive, arial;
+  font-size: 18px;
+  font-weight: bolder;
+
+  line-height: 1.4em;
+}
+
+.container{
+  width: 90%;
+  margin: auto;
+}
+
+
+.thingy_1{
+  background-color: #0a7a7a;
+
+}
+
+header{
+  text-align: center;
+  color: #ff00a0;
 }
